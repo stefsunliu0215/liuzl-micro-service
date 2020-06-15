@@ -1,0 +1,4 @@
+com\liuzl\springcloudalibaba\RocketMQConsumerApplication7011.class
+com\liuzl\springcloudalibaba\sink\MySink.class
+com\liuzl\springcloudalibaba\entity\Foo.class
+com\liuzl\springcloudalibaba\service\ReceiveService.class

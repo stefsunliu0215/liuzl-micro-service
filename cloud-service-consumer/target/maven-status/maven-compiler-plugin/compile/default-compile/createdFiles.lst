@@ -1,0 +1,5 @@
+com\liuzl\springcloudalibaba\handler\SentinelBlockHandler.class
+com\liuzl\springcloudalibaba\service\impl\ConsumerFallbackServiceImpl.class
+com\liuzl\springcloudalibaba\service\ConsumerService.class
+com\liuzl\springcloudalibaba\controller\ConsumerController.class
+com\liuzl\springcloudalibaba\ConsumerApplication9001.class
